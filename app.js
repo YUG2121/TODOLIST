@@ -37,7 +37,7 @@ const item4 = new Item({
   name: "revision & free time ",
 });
 
-const defaultItems = [item1, item2, item3,item4;
+const defaultItems = [item1, item2, item3,item4]
 
 const ListSchema = {
   name: String,
